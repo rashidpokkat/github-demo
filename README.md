@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Tulasi Reddy</h1>
-<h3 align="center">A passionate Mobile App developer from India</h3>
+<h1 align="center">Hi 👋, I'm Rashid AHamed</h1>
+<h3 align="center">DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tulasireddytulasi&label=Profile%20views&color=0e75b6&style=flat" alt="tulasireddytulasi" /> </p>
@@ -14,14 +14,14 @@
 
 - 💬 Ask me about **Flutter and Android(Java)**
 
-- 📫 How to reach me **tulasireddykagithala@gmail.com**
+- 📫 How to reach me **rashidpokkat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tulasireddy0786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tulasireddy0786" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tulasi-reddy-058a7b164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tulasi-reddy-058a7b164" height="30" width="40" /></a>
+<a href="https://twitter.com/rashidpokkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tulasireddy0786" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rashidpokkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tulasi-reddy-058a7b164" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10955838" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10955838" height="30" width="40" /></a>
-<a href="https://instagram.com/tulasireddytulasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tulasireddytulasi" height="30" width="40" /></a>
+<a href="https://instagram.com/rashidpokkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tulasireddytulasi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
